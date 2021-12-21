@@ -4,9 +4,11 @@
 
 ## 相关链接
 
+- [小报童帮助文档](https://help.xiaobot.net/)
+
 - [点此填写小报童申请书](https://jinshuju.net/f/x0BtWK)
 
-- [欢迎来到小报童创作](https://pmthinking.notion.site/002eeae3435d4e96b2aaa7920c17ac32)
+  
 
 ## 专栏合集
 
@@ -19,8 +21,8 @@
 | [蝉堡小报](https://xiaobot.net/p/cbyd)                | 10元        | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
 | [叁拾一周](https://xiaobot.net/p/elizenread)          | 30元        | [Elizen](https://elizen.me/)                                 | 阅读，人生最好的时光。                                       |
 | [阿饭的宝藏](https://xiaobot.net/p/afanfan)           | 49元        | [饭饭](https://mp.weixin.qq.com/s/yUdtgXF_AHpxebBrPte9pg)    | 分享给你那些我在阅读过程中，<br/>会开心到从椅子上跳起来的好内容。 |
-| [Super黄之连点成线](https://xiaobot.net/p/superhuang) | 49元        | Super黄                                                      | 聚焦个人成长的珍珠，不时拾起，终会串成项链。                 |
 | [人生是滚雪球时光胶囊](https://xiaobot.net/p/maoyuan) | 99元        | 毛远                                                         | 一个互联网人记录阅读、思考和投资的涓滴闪念。                 |
+| [Super黄之连点成线](https://xiaobot.net/p/superhuang) | 199元       | Super黄                                                      | 聚焦个人成长的珍珠，不时拾起，终会串成项链。                 |
 | [一门的一天](https://xiaobot.net/p/onedoor)           | 36元/三个月 | 黄一门                                                       | 愉快、清醒、轻盈地活着。                                     |
 | [林不到鱼](https://xiaobot.net/p/fonter)              | 10元        | fonter                                                       | 不想上班，林不到鱼。<br/>想探讨可联系 flowercold@gmail.com 和 thebigalza@gmail.com |
 | [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      | 99元        | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
