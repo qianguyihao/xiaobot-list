@@ -31,7 +31,7 @@
 | [笨方法小报](https://xiaobot.net/p/hardwaylab)        |    ￥59     |  ￥99   | cnfeat                                                       | 我的人生指导原则和知识生活的光芒。愿这些能帮助你更好地思考，激发你的好奇心。 |
 | [叁拾一周](https://xiaobot.net/p/elizenread)          |    ￥10     |  ￥30   | [Elizen](https://elizen.me/)                                 | 三言两语，三年五载，叁拾一周。阅读，人生最好的时光。         |
 | [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥29.9    |  ￥99   | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
-| [书荒菌的清单人生](https://xiaobot.net/p/qingdan)     |     4.9     |   10    | haoo                                                         | 用列清单这样的小花招，来抵抗熵增。<br />来打个赌，每天更新 1 条，断更就退款。 |
+| [书荒菌的清单人生](https://xiaobot.net/p/qingdan)     |    ￥4.9    |  ￥10   | haoo                                                         | 用列清单这样的小花招，来抵抗熵增。<br />来打个赌，每天更新 1 条，断更就退款。 |
 | [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥19.9  | 修饼                                                         | 这里是我的名片，希望能跟读者建立一种链接～                   |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ￥9.9    | ￥19.9  | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ---     |  ￥10   | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
