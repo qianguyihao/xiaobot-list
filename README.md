@@ -30,8 +30,9 @@
 | [然阿姨的成长顿悟](https://xiaobot.net/p/ranayi)      |    ￥30     |   ---   | [培然](https://mp.weixin.qq.com/s/-d3wQxlz27fLKngla520eA)    | 成长是由“顿悟-实践-修正顿悟-下一次实践”构成的。如果我的顿悟对你有启发，我就算做了微小的贡献。<br/>这里不止谈职场相关，还会谈内容创作、读书等。 |
 | [笨方法小报](https://xiaobot.net/p/hardwaylab)        |    ￥59     |  ￥99   | cnfeat                                                       | 我的人生指导原则和知识生活的光芒。愿这些能帮助你更好地思考，激发你的好奇心。 |
 | [叁拾一周](https://xiaobot.net/p/elizenread)          |    ￥10     |  ￥30   | [Elizen](https://elizen.me/)                                 | 三言两语，三年五载，叁拾一周。阅读，人生最好的时光。         |
-| [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥29.9    |  ￥99   | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
+| [冰清的进化史](https://xiaobot.net/p/evolution/)      |    ￥49     |    -    | 冰清                                                         | 把「干货」丢进笔记本，把「伟光正」留给公众号；真实不装的人间清醒嬉笑怒骂就在这里安放。<br />最终，我们都会进化成为真正的自己，活出浑然天成的样子。 |
 | [书荒菌的清单人生](https://xiaobot.net/p/qingdan)     |    ￥4.9    |  ￥10   | haoo                                                         | 用列清单这样的小花招，来抵抗熵增。<br />来打个赌，每天更新 1 条，断更就退款。 |
+| [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥29.9    |  ￥99   | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
 | [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥19.9  | 修饼                                                         | 这里是我的名片，希望能跟读者建立一种链接～                   |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ￥9.9    | ￥19.9  | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ---     |  ￥10   | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
