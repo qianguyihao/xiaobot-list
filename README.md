@@ -36,6 +36,7 @@
 | [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥19.9  | 修饼                                                         | 这里是我的名片，希望能跟读者建立一种链接～                   |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ￥9.9    | ￥19.9  | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ---     |  ￥10   | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
+| 亮总记事本                                            |    ￥69     |         | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [实用阅读术](https://xiaobot.net/p/practicalreading)  |    ￥9.9    |  ￥29   | Francis                                                      | 通过实用性的阅读方法，实现思考、实践甚至是变现的闭环。       |
 | [林不到鱼](https://xiaobot.net/p/fonter)              |   ￥39.9    |  ￥40   | fonter                                                       | 不想上班，林不到鱼。<br/>想探讨可联系 flowercold@gmail.com 和 thebigalza@gmail.com |
 | [一门的一天](https://xiaobot.net/p/onedoor)           |    ￥36     |   ---   | [黄一门](https://mp.weixin.qq.com/s/JBpMOUle61EMD5cqVRtI2g)  | 愉快、清醒、轻盈地活着。                                     |
