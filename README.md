@@ -8,8 +8,9 @@
 
 致作者：如果你也开了专栏，不用主动告诉我。发光足够热，我就能找到你。
 
-
 ## 相关链接
+
+- [关于小报童的源起：人们更愿意追随一个活生生的人，而非一个公司](https://mp.weixin.qq.com/s/s_jNWdHIykQSJ-L7Ve3D3A)
 
 - [小报童帮助文档](https://help.xiaobot.net/)
 
