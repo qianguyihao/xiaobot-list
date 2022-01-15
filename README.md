@@ -34,6 +34,7 @@
 | [冰清的进化史](https://xiaobot.net/p/evolution/)      |    ￥49     |    ---    | 冰清                                                         | 把「干货」丢进笔记本，把「伟光正」留给公众号；真实不装的人间清醒嬉笑怒骂就在这里安放。<br />最终，我们都会进化成为真正的自己，活出浑然天成的样子。 |
 | [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥19.9  | 修饼                                                         | 这里是我的名片，希望能跟读者建立一种链接～                   |
 | [然阿姨的成长顿悟](https://xiaobot.net/p/ranayi)      |    ￥30     |   ---   | [培然](https://mp.weixin.qq.com/s/-d3wQxlz27fLKngla520eA)    | 成长是由“顿悟-实践-修正顿悟-下一次实践”构成的。如果我的顿悟对你有启发，我就算做了微小的贡献。<br/>这里不止谈职场相关，还会谈内容创作、读书等。 |
+| BuildForever | ￥30 | --- | [东炜黄](https://mp.weixin.qq.com/s/vj6SMJZoPOIEJvOlX3Wl4Q) | 人品味挑选的（泛）产品领域荐文。💡个人不合时宜的好奇探索和思考观察。https://huangweidong.me/ |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ￥20    | --- | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [笨方法小报](https://xiaobot.net/p/hardwaylab)        |    ￥59     |  ￥99   | cnfeat                                                       | 我的人生指导原则和知识生活的光芒。愿这些能帮助你更好地思考，激发你的好奇心。 |
 | [人生是滚雪球时光胶囊](https://xiaobot.net/p/maoyuan) |    ￥39     |  ￥99   | [毛远](https://mp.weixin.qq.com/s/UQM3nYe1hKn3kieeM4k0IQ)    | 一个互联网人记录阅读、思考和投资的涓滴闪念。                 |
