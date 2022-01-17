@@ -42,13 +42,15 @@
 | [然阿姨的成长顿悟](https://xiaobot.net/p/ranayi)      |    ￥30     |   ---   | [培然](https://mp.weixin.qq.com/s/-d3wQxlz27fLKngla520eA)    | 成长是由“顿悟-实践-修正顿悟-下一次实践”构成的。如果我的顿悟对你有启发，我就算做了微小的贡献。<br/>这里不止谈职场相关，还会谈内容创作、读书等。 |
 | [我与我周旋久](https://xiaobot.net/p/pmmien)          |   ￥29.9   |   ---   | 此心安处                                                     | 一个求知欲爆棚的家伙的个人思考学习录。作为好奇学会终身会员&死理性派，分享内容包括但不限于个人成长、知识管理、认知科学、心理学、哲学、儒释道等等等等。人类不思考，上帝太无聊，让我们一起拥抱好奇拒绝无聊吧～ |
 | [细细の成长花园](https://xiaobot.net/p/qinxixi) | ￥10 | --- | [秦细细](https://mp.weixin.qq.com/s/u6Td6-f-I5-xclUDtdE-aw) | 运营实践干货丨成长笔记📒丨思考碎片 |
+| [有点意思](https://xiaobot.net/p/knowmore) | ￥15 | ￥45 | ipis | 与你同步分享对生活、对工作、对人生，更有价值的新奇好料。 |
 | [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥29.9    |  ￥99   | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |    ---     | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [林不到鱼](https://xiaobot.net/p/fonter)              |   ￥39.9    |  ￥40   | fonter                                                       | 不想上班，林不到鱼。<br/>想探讨可联系 flowercold@gmail.com 和 thebigalza@gmail.com |
+| [azure的心灵后花园](https://xiaobot.net/p/twinkleaway) | ￥39 |  | 眼里有光的azure | 静心内省，花自绽放。禅修的经验感悟，投资的最新迭代，教育的灵光一闪，读书的心得体会。 |
 | [什么值得读](https://xiaobot.net/p/reading)           |    ￥29     |  ￥99   | [Zac](https://emmmme.com/tags/readingshare/)                 | 阅读分享，收获更多。<br />分享一些个人觉得不错的优质内容，内容偏互联网、社科、品牌等。每周三、四篇推荐～ |
-| [守脑如玉的男朋友](https://xiaobot.net/p/leo)     |    ￥8.8    |  ￥88   | 卞云峰                                                       | 一个定期投资自己大脑的创业者<br/>阅读、思考、投资笔记。      |
-| [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ￥1-     |  ￥39  | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
+| [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ￥10     |  ￥39  | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
 | [醒醒生活记录仪](https://xiaobot.net/p/xing2)         |    ￥29     |  ￥77   | momo                                                         | 什么拯救过你，你就拿它来拯救世界。<br/>这里是拯救过醒醒的所有记录，是我的私密空间，只分享给懂的人。 |
+| [守脑如玉的男朋友](https://xiaobot.net/p/leo)     |    ￥8.8    |  ￥88   | 卞云峰                                                       | 一个定期投资自己大脑的创业者<br/>阅读、思考、投资笔记。      |
 | [一门的一天](https://xiaobot.net/p/onedoor)           |    ￥36     |   ---   | [黄一门](https://mp.weixin.qq.com/s/JBpMOUle61EMD5cqVRtI2g)  | 愉快、清醒、轻盈地活着。                                     |
 | [直线国](https://xiaobot.net/p/practicalreading) |    ￥9.9    |  ￥29   | Francis                                                      | 通过实用性的阅读方法，实现思考、实践甚至是变现的闭环。       |
 | [多抓书](https://xiaobot.net/p/duozhuashu)            |     ---     |  ￥99   | 知无涯                                                       | 这里没有宏大的叙事架构，谈点真实、细小的思考点，诸如：私域运营、效率工具、读书心得以及一些日常的所思所见。 |
