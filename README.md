@@ -43,6 +43,7 @@
 | [我与我周旋久](https://xiaobot.net/p/pmmien)          |   ￥29.9   |   ---   | 此心安处                                                     | 一个求知欲爆棚的家伙的个人思考学习录。作为好奇学会终身会员&死理性派，分享内容包括但不限于个人成长、知识管理、认知科学、心理学、哲学、儒释道等等等等。人类不思考，上帝太无聊，让我们一起拥抱好奇拒绝无聊吧～ |
 | [细细の成长花园](https://xiaobot.net/p/qinxixi) | ￥10 | --- | [秦细细](https://mp.weixin.qq.com/s/u6Td6-f-I5-xclUDtdE-aw) | 运营实践干货丨成长笔记📒丨思考碎片 |
 | [有点意思](https://xiaobot.net/p/knowmore) | ￥15 | ￥45 | ipis | 与你同步分享对生活、对工作、对人生，更有价值的新奇好料。 |
+| [阅冰室](https://xiaobot.net/p/xdash) | ￥69 | --- | 范冰 | 阅读精华整理。回顾以往阅读过的深度长文/信息流/书籍（不限中英）中的高亮标注，精中取精，予以推荐。内容聚焦「商业 / 效能 / 智识」增长 3 个主题。 |
 | [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥29.9    |  ￥99   | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |    ---     | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [林不到鱼](https://xiaobot.net/p/fonter)              |   ￥39.9    |  ￥40   | fonter                                                       | 不想上班，林不到鱼。<br/>想探讨可联系 flowercold@gmail.com 和 thebigalza@gmail.com |
