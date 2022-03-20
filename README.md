@@ -30,9 +30,10 @@
 | [空杯子](https://xiaobot.net/p/emptycup)              |   ￥25.9    |  ￥69   | [刘飞](https://mp.weixin.qq.com/s/oxOI6c0fiyRyPdfhoaX_-Q)    | 杯子的价值在于，它是空的。记录观察和思考。                   |
 | [惊鸿壹面](https://xiaobot.net/p/qianguyihao)         |     ---     |  ￥128  | [千古壹号](qianguyihao.com/about)                            | 读书笔记、产品思考、软件工具、信息推荐、具体生活。<br />热爱阅读和分享。探索小而美的一面，比宏大更宏大。 |
 | [阿饭的宝藏](https://xiaobot.net/p/afanfan)           |    ￥39    |  ￥99  | [饭饭](https://mp.weixin.qq.com/s/q6yN_JLuorQwaLtU4N3eFg)    | 分享给你那些我在阅读过程中，会开心到从椅子上跳起来的好内容。 |
-| [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥69 | 修饼                                                         | 这里是我 的名片，希望能跟读者建立一种链接～                   |
 | [冰清的进化史](https://xiaobot.net/p/evolution/)      |    ￥89    |    ￥199    | 冰清                                                         | 把「干货」丢进笔记本，把「伟光正」留给公众号；真实不装的人间清醒嬉笑怒骂就在这里安放。<br />最终，我们都会进化成为真正的自己，活出浑然天成的样子。 |
+| [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥69 | 修饼                                                         | 这里是我 的名片，希望能跟读者建立一种链接～                   |
 | [Super黄之连点成线](https://xiaobot.net/p/superhuang) |   ￥49   |  ￥149  | [Super黄](https://mp.weixin.qq.com/s/L90FuqvPv2ByoWG77ARgoQ) | 聚焦个人成长的珍珠，不时拾起，终会串成项链。                 |
+| [Abby与你共成长](https://xiaobot.net/p/abby) | ￥39 | ￥99 | Abby | 作为SaaS产品商业化负责人关于职场和商业的思考<br/>作为FIRE生活践行者关于投资的思考<br/>作为普通人关于人生的思考 |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ---    | ￥66 | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [人生是滚雪球时光胶囊](https://xiaobot.net/p/maoyuan) |    ￥39     |  ￥99   | [毛远](https://mp.weixin.qq.com/s/UQM3nYe1hKn3kieeM4k0IQ)    | 一个互联网人记录阅读、思考和投资的涓滴闪念。                 |
 | [Trigger漫谈](https://xiaobot.net/p/trigger) | ￥49.9 | ￥129 | 暴走的铁锤 | 主要和大家聊我自己内心困惑的一切话题，以及我的所有认知成长，比如：<br/>📍商业世界的运转、📍自我内心的探索、📍个人职业的发展、📍人生有什么意义 |
