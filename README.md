@@ -48,6 +48,7 @@
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |  ￥258  | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [林不到鱼](https://xiaobot.net/p/fonter)              |   ---   |  ￥40   | fonter                                                       | 不想上班，林不到鱼。<br/>想探讨可联系 flowercold@gmail.com 和 thebigalza@gmail.com |
 | [azure的心灵后花园](https://xiaobot.net/p/twinkleaway) | ￥39 | ￥128 | 眼里有光的azure | 静心内省，花自绽放。禅修的经验感悟，投资的最新迭代，教育的灵光一闪，读书的心得体会。 |
+| [认真编辑手记](https://xiaobot.net/p/telenote) | ￥28 | --- | [四楼](https://www.xiaoyuzhoufm.com/podcast/611a8f0a1a18cc41b56c41a9?s=eyJ1IjogIjVlN2Q2OWFlYTJmMmU1MDNjZWM0NjEzMCJ9) | 这里是读报teleread的编辑手记，发一些节目里没放出来的内容，和主播没出现过的样子。 |
 | [什么值得读](https://xiaobot.net/p/reading)           |    ￥29     |  ￥99   | [Zac](https://emmmme.com/tags/readingshare/)                 | 阅读分享，收获更多。<br />分享一些个人觉得不错的优质内容，内容偏互联网、社科、品牌等。每周三、四篇推荐～ |
 | [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ￥10     |  ￥39  | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
 | [醒醒生活记录仪](https://xiaobot.net/p/xing2)         |    ￥29     |  ￥77   | momo                                                         | 什么拯救过你，你就拿它来拯救世界。<br/>这里是拯救过醒醒的所有记录，是我的私密空间，只分享给懂的人。 |
@@ -57,6 +58,8 @@
 | [夜场里的希尔伯特](https://xiaobot.net/p/decade) | ￥36.3 | --- | Ethan李 | 在这里我们只讨论创业和生活中这90%没用的故事。 |
 | [郭阳振の思行记](https://xiaobot.net/p/guoyz) |     ￥19     |  ￥69  | [郭阳振Kongsen](https://mp.weixin.qq.com/s/v6c4BXn6Pg3LQJBgEMYN5w) | 要么带来灵感启发，要么驱动最小执行，要么提供解决方案。 |
 | [坐井说天阔](https://xiaobot.net/p/talkbig) | ￥19.9 | --- | 沈浩翔 | 参差多态，乃幸福之本源。我就坐在书桌前，吹吹全天下的牛逼。 |
+| [跟着好奇心去冲浪](https://xiaobot.net/p/abcde) | ￥20.22 | ￥202.2 | Elfe Xu | 好奇心+信息素养=利用网络主动学习的能力<br/>本专栏会有我对培养孩子此能力的思考，以及自己好奇探索的记录。 |
+| [九千五百岁的精神世界](https://xiaobot.net/p/9500) | ￥10 | --- | 九千五百岁 | 内容聚焦「产品 / 增长 / 职场」 3 个主题。 |
 
 ## 不良名单
 
