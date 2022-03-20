@@ -48,7 +48,8 @@
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |  ￥258  | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [郭阳振の思行记](https://xiaobot.net/p/guoyz) |     ￥19     |  ￥69  | [郭阳振Kongsen](https://mp.weixin.qq.com/s/v6c4BXn6Pg3LQJBgEMYN5w) | 要么带来灵感启发，要么驱动最小执行，要么提供解决方案。 |
 | [坐井说天阔](https://xiaobot.net/p/talkbig) | ￥19.9 | --- | 沈浩翔 | 参差多态，乃幸福之本源。我就坐在书桌前，吹吹全天下的牛逼。 |
-| [azure的心灵后花园](https://xiaobot.net/p/twinkleaway) | ￥39 | ￥128 | 眼里有光的azure | 静心内省，花自绽放。禅修的经验感悟，投资的最新迭代，教育的灵光一闪，读书的心得体会。 |
+| [azure 的 1%](https://xiaobot.net/p/twinkleaway) | ￥39 | ￥128 | 眼里有光的azure | 静心内省，花自绽放。这里有：<br />✨ 与 朋友/作者/内心 的抵足夜谈<br />🦋 对 Naval 8+1 System 的践行 |
+| Mark的博客 | ￥12 | --- | 王啸宇 | AhaFM的主播、（前）组织进化论的制作人Mark。感谢你的订阅支持！欢迎加我微信 MarkXiouyu 进一步交流。 |
 | [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ￥10     |  ￥39  | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
 | 花咕的专栏 | ￥10 |  | 花咕隆咚 | ① 主要写大厂小人物故事的专栏，可能就是你真实的生活<br/>② 偶尔会写一些产品心得，但请不要以我为准，产品经理是个实践工种<br/>③ 互联网困局中寻求自我救赎之路，会在专栏中记录 |
 | [跟着好奇心去冲浪](https://xiaobot.net/p/abcde) | ￥20.22 | ￥202.2 | Elfe Xu | 好奇心+信息素养=利用网络主动学习的能力<br/>本专栏会有我对培养孩子此能力的思考，以及自己好奇探索的记录。 |
