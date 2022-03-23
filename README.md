@@ -32,8 +32,10 @@
 | [阿饭的宝藏](https://xiaobot.net/p/afanfan)           |    ￥39    |  ￥99  | [饭饭](https://mp.weixin.qq.com/s/q6yN_JLuorQwaLtU4N3eFg)    | 分享给你那些我在阅读过程中，会开心到从椅子上跳起来的好内容。 |
 | [冰清的进化史](https://xiaobot.net/p/evolution/)      |    ￥89    |    ￥199    | 冰清                                                         | 把「干货」丢进笔记本，把「伟光正」留给公众号；真实不装的人间清醒嬉笑怒骂就在这里安放。<br />最终，我们都会进化成为真正的自己，活出浑然天成的样子。 |
 | [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥69 | 修饼                                                         | 这里是我 的名片，希望能跟读者建立一种链接～                   |
+| [EInkKiller](https://xiaobot.net/p/EInkKiller) | ￥66 | --- | 直树桑 | 致力于解决大家对于墨水屏产品、电子阅读的困惑，帮助大家更好地选择、使用利器，从而更好地提升自己。 |
 | [Super黄之连点成线](https://xiaobot.net/p/superhuang) |   ￥49   |  ￥149  | [Super黄](https://mp.weixin.qq.com/s/L90FuqvPv2ByoWG77ARgoQ) | 聚焦个人成长的珍珠，不时拾起，终会串成项链。                 |
 | [Abby与你共成长](https://xiaobot.net/p/abby) | ￥39 | ￥99 | Abby | 作为SaaS产品商业化负责人关于职场和商业的思考<br/>作为FIRE生活践行者关于投资的思考<br/>作为普通人关于人生的思考 |
+| [小喜的角落](https://xiaobot.net/p/xiaoxi) | ￥29 | ￥99 | [春小喜](https://xiaoxii.notion.site/92a5a9393e8447ba8bc37960e1a432ad) | “如果有足够多的我们成功逃离，这个世界也许会因此变得更好一些” |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ---    | ￥66 | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [人生是滚雪球时光胶囊](https://xiaobot.net/p/maoyuan) |    ￥39     |  ￥99   | [毛远](https://mp.weixin.qq.com/s/UQM3nYe1hKn3kieeM4k0IQ)    | 一个互联网人记录阅读、思考和投资的涓滴闪念。                 |
 | [Trigger漫谈](https://xiaobot.net/p/trigger) | ￥49.9 | ￥129 | 暴走的铁锤 | 主要和大家聊我自己内心困惑的一切话题，以及我的所有认知成长，比如：<br/>📍商业世界的运转、📍自我内心的探索、📍个人职业的发展、📍人生有什么意义 |
