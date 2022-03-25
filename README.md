@@ -48,6 +48,7 @@
 | [有点意思](https://xiaobot.net/p/knowmore) | ￥15 | ￥45 | ipis | 与你同步分享对生活、对工作、对人生，更有价值的新奇好料。 |
 | [认真编辑手记](https://xiaobot.net/p/telenote) | ￥28 | --- | [四楼](https://www.xiaoyuzhoufm.com/podcast/611a8f0a1a18cc41b56c41a9?s=eyJ1IjogIjVlN2Q2OWFlYTJmMmU1MDNjZWM0NjEzMCJ9) | 这里是读报teleread的编辑手记，发一些节目里没放出来的内容，和主播没出现过的样子。 |
 | [阅冰室](https://xiaobot.net/p/xdash) | ￥69 | --- | [范冰](https://mp.weixin.qq.com/s/5Gjws9xC17v_7bzhMFzIsQ) | 阅读精华整理。回顾以往阅读过的深度长文/信息流/书籍（不限中英）中的高亮标注，精中取精，予以推荐。内容聚焦「商业 / 效能 / 智识」增长 3 个主题。 |
+| [思钱想后](https://xiaobot.net/p/money-wisdom) | ￥49 | ￥288 | [崇旭_Ken](https://jike.city/kenwind) | 分享关于个人财富管理的一切。没有财富密码，只有财富思考。<br/>不追求日更，追求每一篇都穿越时间。你现在看到的就是最低价。将来只涨，不降。<br/>十年创作者，认真走在财富自由路上。 |
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |  ￥258  | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [郭阳振の思行记](https://xiaobot.net/p/guoyz) |     ￥19     |  ￥69  | [郭阳振Kongsen](https://mp.weixin.qq.com/s/v6c4BXn6Pg3LQJBgEMYN5w) | 要么带来灵感启发，要么驱动最小执行，要么提供解决方案。 |
 | [坐井说天阔](https://xiaobot.net/p/talkbig) | ￥19.9 | --- | 沈浩翔 | 参差多态，乃幸福之本源。我就坐在书桌前，吹吹全天下的牛逼。 |
