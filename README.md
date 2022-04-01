@@ -55,21 +55,29 @@
 | [azure 的 1%](https://xiaobot.net/p/twinkleaway) | ￥39 | ￥128 | 眼里有光的azure | 静心内省，花自绽放。这里有：<br />✨ 与 朋友/作者/内心 的抵足夜谈<br />🦋 对 Naval 8+1 System 的践行 |
 | [Mark的博客](https://xiaobot.net/p/Mark) | ￥12 | --- | 王啸宇 | AhaFM的主播、（前）组织进化论的制作人Mark。感谢你的订阅支持！欢迎加我微信 MarkXiouyu 进一步交流。 |
 | [Zara’s Blog](https://xiaobot.net/p/Zara) | ￥20 | --- | Zara | 分享的主题是工作方式、职场话题等。象征性地收费是为了找到真正有共鸣的受众，同时也督促自己持续输出。 |
-| [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ￥10     |  ￥39  | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
 | [BuildForever](https://xiaobot.net/p/buildforever/) | ￥19 | ￥50 | [东炜黄](https://mp.weixin.qq.com/s/vj6SMJZoPOIEJvOlX3Wl4Q) | 人品味挑选的（泛）产品领域荐文。💡个人不合时宜的好奇探索和思考观察。https://huangweidong.me/ |
+| [Axe的消费启示录](https://xiaobot.net/p/axe2022) | ￥49 | --- | [刘行健 Axe](https://web.okjike.com/u/94954dd9-cf38-4eaf-bc30-681c186438da) | 我是专注在消费行业的前投资人，现在在做消费品孵化和精品投行，做过投资也创过业。<br />这里会与你分享我的「启示录」：<br />-关于消费行业的思考与洞察（行业研究）<br/>-关于消费品牌与案例的分析（品牌复盘）<br/>-在业务层的方法论总结（管理经验） |
 | [花咕的专栏](https://xiaobot.net/p/FlowerDance) | ￥10 | --- | 花咕隆咚 | ① 主要写大厂小人物故事的专栏，可能就是你真实的生活<br/>② 偶尔会写一些产品心得，但请不要以我为准，产品经理是个实践工种<br/>③ 互联网困局中寻求自我救赎之路，会在专栏中记录 |
+| [减法实验室](https://xiaobot.net/p/Minuslab) | ￥20 | --- | [不一](https://web.okjike.com/u/4E70A9CE-65CB-43B3-BA3C-CF96C6921FC7) | 前阿里高级设计专家，希望在减法实验室用设计的力量对抗世界的熵增。 |
 | [被管理者实践](https://xiaobot.net/p/antidrucker) | ￥39 | --- | Mustang-Liu | 一个资深「被」管理专家为您讲述，打工人的职场生存艺术与摸鱼而不划水的晋级攻略，力图让每个打工人获得理论武器，身心自洽又低损耗的在公司体系里游刃有余的工作和生活。<br />周更新2两篇短文，每月更新一篇长文，算下来，每月更新9篇文章。 |
-| [跟着好奇心去冲浪](https://xiaobot.net/p/abcde) | ￥20.22 | ￥202.2 | Elfe Xu | 好奇心+信息素养=利用网络主动学习的能力<br/>本专栏会有我对培养孩子此能力的思考，以及自己好奇探索的记录。 |
+| [newbeepaper](https://xiaobot.net/p/newbeepaper) | ￥69 | ￥149 | 温伯恩先生 | 分享我对新事物的看法、观点、奇思妙想。<br />✨包括但不限于新媒体、新消费、新职业、新文娱。 |
 | [九千五百岁的精神世界](https://xiaobot.net/p/9500) | ￥10 | --- | 九千五百岁 | 内容聚焦「产品 / 增长 / 职场」 3 个主题。 |
+| 一寸相框 | ￥15 | --- | amelia | 技媒体到一线风投，再到大厂创新生态加速器，总是宏观。<br />分享自己一寸相框中的信息、观察、思考和实践，包括个人操作系统的折腾实验、工作职场、商业观察，工具、咖啡和有趣的人、好玩的东西。 |
+| [跟着好奇心去冲浪](https://xiaobot.net/p/abcde) | ￥20.22 | ￥202.2 | Elfe Xu | 好奇心+信息素养=利用网络主动学习的能力<br/>本专栏会有我对培养孩子此能力的思考，以及自己好奇探索的记录。 |
 | [简历的故事](https://xiaobot.net/p/Peter1981_HR) | ￥49 | ￥99 | Peter | 分享简历与面试背后的故事。 |
-| [守脑如玉的男朋友](https://xiaobot.net/p/leo)     |    ￥20    |  ￥88   | 卞云峰                                                       | 一个定期投资自己大脑的创业者<br/>阅读、思考、投资笔记。      |
+| [蝉堡小报](https://xiaobot.net/p/cbyd)                |     ￥10     |  ￥39  | 南百城                                                       | 城堡阅读碎片版，记录个人生活观察，阅读笔记。[城堡阅读周刊](https://www.yuque.com/gaohui-bdaa2/chengbao) |
+| [不美好药店](https://xiaobot.net/p/lenciel) | ￥75 | ￥288 | [lenciel](https://lenciel.com/2022/03/start-a-newsletter/) | 关于产研、商业化、个人发展、与他人共事等，<br/>让人挠头的各种 elegant puzzles，本座的见闻感悟。<br />详谈比金句有用，湿货比干货有用。 |
+| [守脑如玉的男朋友](https://xiaobot.net/p/leo)     |    ￥20    |  ￥88   | 卞云峰                                                       | 一个定期投资自己大脑的创业者<br/>阅读、思考、投资笔记。 |
 | [林不到鱼](https://xiaobot.net/p/fonter)              |   ---   |  ￥40   | fonter                                                       | 不想上班，林不到鱼。<br/>想探讨可联系 flowercold@gmail.com 和 thebigalza@gmail.com |
 | [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥42   |  ￥168  | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
+| [黄小邪丫丫](https://xiaobot.net/p/snow1994xie) | ￥36 | --- | 黄小邪 | 分享围绕：<br/>✅ 业务思考：涉及生鲜电商行业的项目管理/业务理解/组织层面/业务数据分析<br/>🉑 个人成长：与自己对话/对自己真实/觉察情绪源动力和身体信号/迭代思考方式 |
 | [什么值得读](https://xiaobot.net/p/reading)           |    ￥29     |  ￥99   | [Zac](https://emmmme.com/tags/readingshare/)                 | 阅读分享，收获更多。<br />分享一些个人觉得不错的优质内容，内容偏互联网、社科、品牌等。每周三、四篇推荐～ |
 | [醒醒生活记录仪](https://xiaobot.net/p/xing2)         |    ￥29     |  ￥77   | momo                                                         | 什么拯救过你，你就拿它来拯救世界。<br/>这里是拯救过醒醒的所有记录，是我的私密空间，只分享给懂的人。 |
 | [一门的一天](https://xiaobot.net/p/onedoor)           |    ￥36     |   ---   | [黄一门](https://mp.weixin.qq.com/s/JBpMOUle61EMD5cqVRtI2g)  | 愉快、清醒、轻盈地活着。                                     |
 | [直线国](https://xiaobot.net/p/practicalreading) |    ￥9.9    |  ￥29   | Francis                                                      | 通过实用性的阅读方法，实现思考、实践甚至是变现的闭环。       |
 | [夜场里的希尔伯特](https://xiaobot.net/p/decade) | ￥36.3 | --- | Ethan李 | 在这里我们只讨论创业和生活中这90%没用的故事。 |
+| [运营沉思录Lite](https://xiaobot.net/p/yunying) | ￥30 | --- | [碧落](https://mp.weixin.qq.com/s/54DZ0WRG-WUpkDqvrHx0aw) | 记录一个9年运营人的日常思考。记录领域：运营/增长/互联网/职场。<br />面向自己写作，谨慎订阅。为求一字稳，耐得半宵寒。 |
+| [神奇开源小海螺](https://xiaobot.net/p/abser) | ￥30 | --- | 杨鼎睿 | --- |
 
 ## 不良名单
 
