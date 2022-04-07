@@ -72,11 +72,13 @@
 | [P小二的每日思考](https://xiaobot.net/p/pxiaoer)      |   ￥42   |  ￥168  | [P小二](https://pxiaoer.blog/about/)                         | 做一个能思考，会思考的人。                                   |
 | [黄小邪丫丫](https://xiaobot.net/p/snow1994xie) | ￥36 | --- | 黄小邪 | 分享围绕：<br/>✅ 业务思考：涉及生鲜电商行业的项目管理/业务理解/组织层面/业务数据分析<br/>🉑 个人成长：与自己对话/对自己真实/觉察情绪源动力和身体信号/迭代思考方式 |
 | [什么值得读](https://xiaobot.net/p/reading)           |    ￥29     |  ￥99   | [Zac](https://emmmme.com/tags/readingshare/)                 | 阅读分享，收获更多。<br />分享一些个人觉得不错的优质内容，内容偏互联网、社科、品牌等。每周三、四篇推荐～ |
-| [醒醒生活记录仪](https://xiaobot.net/p/xing2)         |    ￥29     |  ￥77   | momo                                                         | 什么拯救过你，你就拿它来拯救世界。<br/>这里是拯救过醒醒的所有记录，是我的私密空间，只分享给懂的人。 |
+| [万象深林](https://xiaobot.net/p/wxsl) | ￥18 | ￥68 | 流羽 | 保持输入，保持思考，保持输出。 |
 | [一门的一天](https://xiaobot.net/p/onedoor)           |    ￥36     |   ---   | [黄一门](https://mp.weixin.qq.com/s/JBpMOUle61EMD5cqVRtI2g)  | 愉快、清醒、轻盈地活着。                                     |
 | [直线国](https://xiaobot.net/p/practicalreading) |    ￥9.9    |  ￥29   | Francis                                                      | 通过实用性的阅读方法，实现思考、实践甚至是变现的闭环。       |
+| [醒醒生活记录仪](https://xiaobot.net/p/xing2)         |    ￥29     |  ￥77   | momo                                                         | 什么拯救过你，你就拿它来拯救世界。<br/>这里是拯救过醒醒的所有记录，是我的私密空间，只分享给懂的人。 |
 | [夜场里的希尔伯特](https://xiaobot.net/p/decade) | ￥36.3 | --- | Ethan李 | 在这里我们只讨论创业和生活中这90%没用的故事。 |
 | [运营沉思录Lite](https://xiaobot.net/p/yunying) | ￥30 | --- | [碧落](https://mp.weixin.qq.com/s/54DZ0WRG-WUpkDqvrHx0aw) | 记录一个9年运营人的日常思考。记录领域：运营/增长/互联网/职场。<br />面向自己写作，谨慎订阅。为求一字稳，耐得半宵寒。 |
+| [Jacob的偶尔启发](https://xiaobot.net/p/jacob) | ￥79 | ￥259 | Jacob Palmers | Jacob Palmers，从事价值投资、量化交易和互联网产品行业，信奉长期主义、独立思考的生活方式，分享投资、产品相关的个人原创观点和思考。 |
 | [神奇开源小海螺](https://xiaobot.net/p/abser) | ￥30 | --- | 杨鼎睿 | --- |
 
 ## 不良名单
