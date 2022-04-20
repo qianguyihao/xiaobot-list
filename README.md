@@ -44,13 +44,14 @@
 | [笨方法小报](https://xiaobot.net/p/hardwaylab)        |    ￥59     |  ￥199  | cnfeat                                                       | 我的人生指导原则和知识生活的光芒。愿这些能帮助你更好地思考，激发你的好奇心。 |
 | [然阿姨的成长顿悟](https://xiaobot.net/p/ranayi)      |    ￥30     |   ---   | [培然](https://mp.weixin.qq.com/s/-d3wQxlz27fLKngla520eA)    | 成长是由“顿悟-实践-修正顿悟-下一次实践”构成的。如果我的顿悟对你有启发，我就算做了微小的贡献。<br/>这里不止谈职场相关，还会谈内容创作、读书等。 |
 | [我与我周旋久](https://xiaobot.net/p/pmmien)          |   ￥29.9   |   ￥69.9   | 此心安处                                                     | 一个求知欲爆棚的家伙的个人思考学习录。作为好奇学会终身会员&死理性派，分享内容包括但不限于个人成长、知识管理、认知科学、心理学、哲学、儒释道等等等等。人类不思考，上帝太无聊，让我们一起拥抱好奇拒绝无聊吧～ |
-| [书荒菌的清单人生](https://xiaobot.net/p/qingdan)     |    ￥4.9    |  ￥10   | haoo                                                         | 用列清单这样的小花招，来抵抗熵增。<br />来打个赌，每天更新 1 条，断更就退款。 |
+| [清单人生](https://xiaobot.net/p/qingdan)     |    ￥4.9    |  ￥10   | haoo                                                         | 用列清单这样的小花招，来抵抗熵增。以清单的形式，来探索清单的应用边界。<br />来打个赌，每天更新 1 条，断更就退款。 |
 | [细细の成长花园](https://xiaobot.net/p/qinxixi) | ￥39.9 | ￥199 | [秦细细](https://mp.weixin.qq.com/s/u6Td6-f-I5-xclUDtdE-aw) | 运营实践干货丨成长笔记📒丨思考碎片 |
 | [有点意思](https://xiaobot.net/p/knowmore) | ￥15 | ￥45 | ipis | 与你同步分享对生活、对工作、对人生，更有价值的新奇好料。 |
-| [认真编辑手记](https://xiaobot.net/p/telenote) | ￥28 | --- | [四楼](https://www.xiaoyuzhoufm.com/podcast/611a8f0a1a18cc41b56c41a9?s=eyJ1IjogIjVlN2Q2OWFlYTJmMmU1MDNjZWM0NjEzMCJ9) | 这里是读报teleread的编辑手记，发一些节目里没放出来的内容，和主播没出现过的样子。 |
 | [阅冰室](https://xiaobot.net/p/xdash) | ￥69 | --- | [范冰](https://mp.weixin.qq.com/s/5Gjws9xC17v_7bzhMFzIsQ) | 阅读精华整理。回顾以往阅读过的深度长文/信息流/书籍（不限中英）中的高亮标注，精中取精，予以推荐。内容聚焦「商业 / 效能 / 智识」增长 3 个主题。 |
 | [Axe的消费启示录](https://xiaobot.net/p/axe2022) | ￥49 | --- | [刘行健 Axe](https://web.okjike.com/u/94954dd9-cf38-4eaf-bc30-681c186438da) | 我是专注在消费行业的前投资人，现在在做消费品孵化和精品投行，做过投资也创过业。<br />这里会与你分享我的「启示录」：<br />-关于消费行业的思考与洞察（行业研究）<br/>-关于消费品牌与案例的分析（品牌复盘）<br/>-在业务层的方法论总结（管理经验） |
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |  ￥258  | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
+| [温柔一刀](https://xiaobot.net/p/doriskeke) | ￥28 | --- | 刀姐doris | 刀姐doris的博客，写写对于营销、品牌、创业和个人成长的碎片化思考。 |
+| [认真编辑手记](https://xiaobot.net/p/telenote) | ￥28 | --- | [四楼](https://www.xiaoyuzhoufm.com/podcast/611a8f0a1a18cc41b56c41a9?s=eyJ1IjogIjVlN2Q2OWFlYTJmMmU1MDNjZWM0NjEzMCJ9) | 这里是读报teleread的编辑手记，发一些节目里没放出来的内容，和主播没出现过的样子。 |
 | [郭阳振の思行记](https://xiaobot.net/p/guoyz) |     ￥19     |  ￥69  | [郭阳振Kongsen](https://mp.weixin.qq.com/s/v6c4BXn6Pg3LQJBgEMYN5w) | 要么带来灵感启发，要么驱动最小执行，要么提供解决方案。 |
 | [坐井说天阔](https://xiaobot.net/p/talkbig) | ￥19.9 | --- | 沈浩翔 | 参差多态，乃幸福之本源。我就坐在书桌前，吹吹全天下的牛逼。 |
 | [azure 的 1%](https://xiaobot.net/p/twinkleaway) | ￥39 | ￥128 | 眼里有光的azure | 静心内省，花自绽放。这里有：<br />✨ 与 朋友/作者/内心 的抵足夜谈<br />🦋 对 Naval 8+1 System 的践行 |
