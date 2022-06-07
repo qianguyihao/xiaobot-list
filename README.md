@@ -31,6 +31,7 @@
 | [阿饭的宝藏](https://xiaobot.net/p/afanfan)           |    ￥39    |  ￥99  | [饭饭](https://mp.weixin.qq.com/s/q6yN_JLuorQwaLtU4N3eFg)    | 分享给你那些我在阅读过程中，会开心到从椅子上跳起来的好内容。 |
 | [松节油](https://xiaobot.net/p/melow)                 |    ￥49    |   ￥99   | [少楠](https://index.pmthinking.com/a601a12335044f349a22caf57f274c27) | 松节油是指在一英寸高的地方真正发生的事情，不是从10000英尺高空观察到的那种普通的、陈词滥调的形状。所以在这里没有宏观的叙事，只有具体的感受，微小但真实。<br />毕加索说：艺术评论家聚在一起谈论的是形式、结构和意义，而艺术家们在一起讨论在哪里可以买到便宜的松节油。所以这里没有宏大的叙事，只有具体的「松节油」。 |
 | [放浪的产品狗](https://xiaobot.net/p/pmdogs) | ￥68 | --- | [纯银](https://firecicada.me/) | 一只产品狗的互联网迷思。每篇三四五六七八百字，两天更新一篇。<br />接受产品提问，问答规则：[firecicada.me](https://firecicada.me/) |
+| [小众闲谈](https://xiaobot.net/p/WebNotes) | ￥18 | --- | Fenng | 就是随便写点东西。如无必要，请勿订阅。 |
 | [冰清的进化史](https://xiaobot.net/p/evolution/)      |    ￥89    |    ￥199    | 冰清                                                         | 把「干货」丢进笔记本，把「伟光正」留给公众号；真实不装的人间清醒嬉笑怒骂就在这里安放。<br />最终，我们都会进化成为真正的自己，活出浑然天成的样子。 |
 | [静止的量子](https://xiaobot.net/p/xiubing)           |     ---     | ￥69 | 修饼                                                         | 这里是我 的名片，希望能跟读者建立一种链接～                   |
 | [Super黄之连点成线](https://xiaobot.net/p/superhuang) |   ￥49   |  ￥149  | [Super黄](https://mp.weixin.qq.com/s/L90FuqvPv2ByoWG77ARgoQ) | 聚焦个人成长的珍珠，不时拾起，终会串成项链。                 |
@@ -38,9 +39,9 @@
 | [小喜的角落](https://xiaobot.net/p/xiaoxi) | ￥29 | ￥99 | [春小喜](https://xiaoxii.notion.site/92a5a9393e8447ba8bc37960e1a432ad) | “如果有足够多的我们成功逃离，这个世界也许会因此变得更好一些” |
 | [涛声](https://xiaobot.net/p/yyds)                    |    ---    | ￥66 | 元朔                                                         | 聊职场、说心得、讲公文。工作日每日一篇。                     |
 | [人生是滚雪球时光胶囊](https://xiaobot.net/p/maoyuan) |    ￥39     |  ￥99   | [毛远](https://mp.weixin.qq.com/s/UQM3nYe1hKn3kieeM4k0IQ)    | 一个互联网人记录阅读、思考和投资的涓滴闪念。                 |
-| [叁拾一周](https://xiaobot.net/p/elizenread)          |    ￥10     |  ￥30   | [Elizen](https://elizen.me/)                                 | 三言两语，三年五载，叁拾一周。阅读，人生最好的时光。         |
 | [Trigger漫谈](https://xiaobot.net/p/trigger) | ￥49.9 | ￥129 | 暴走的铁锤 | 主要和大家聊我自己内心困惑的一切话题，以及我的所有认知成长，比如：<br/>📍商业世界的运转、📍自我内心的探索、📍个人职业的发展、📍人生有什么意义 |
 | [笨方法小报](https://xiaobot.net/p/hardwaylab)        |    ￥59     |  ￥199  | cnfeat                                                       | 我的人生指导原则和知识生活的光芒。愿这些能帮助你更好地思考，激发你的好奇心。 |
+| [紫洋芋](https://xiaobot.net/p/ziyangyucosmo) | ￥15 | --- | 李照崟lily | 紫洋芋，是来自云南、住在北京的90后野生写字人尝试搭建的一个虚构故事小宇宙。<br/>一系列轻盈的志怪小故事，织成虚实相间的地图。我们“飘浮”，而非“扎根”于那片红土地上。通过故事，时不时地，我们逃遁，去云南。 |
 | [然阿姨的成长顿悟](https://xiaobot.net/p/ranayi)      |    ￥30     |   ---   | [培然](https://mp.weixin.qq.com/s/-d3wQxlz27fLKngla520eA)    | 成长是由“顿悟-实践-修正顿悟-下一次实践”构成的。如果我的顿悟对你有启发，我就算做了微小的贡献。<br/>这里不止谈职场相关，还会谈内容创作、读书等。 |
 | [我与我周旋久](https://xiaobot.net/p/pmmien)          |   ￥29.9   |   ￥69.9   | 此心安处                                                     | 一个求知欲爆棚的家伙的个人思考学习录。作为好奇学会终身会员&死理性派，分享内容包括但不限于个人成长、知识管理、认知科学、心理学、哲学、儒释道等等等等。人类不思考，上帝太无聊，让我们一起拥抱好奇拒绝无聊吧～ |
 | [任鑫今日笔记](https://xiaobot.net/p/ideas) | ￥69 | ￥399 | [任鑫](https://mp.weixin.qq.com/s/H2TjQ7j60jq9CBcSrHG5bA) | 主要灵感来自和各个创业团队聊天、开各种会、读书和自己想。<br/>主要覆盖：创业；商业真相；Web3；产品；个人成长系统；如何开心；如何思考。<br/>www.FoolishMars.com |
@@ -50,6 +51,7 @@
 | [坐井说天阔](https://xiaobot.net/p/talkbig) | ￥39.9 | ￥99.9 | 沈浩翔 | “十倍互联网”主理人，专注数字经济与元宇宙；求是设计会创始人，创意相关好玩的事儿。参差多态，乃幸福之本源。我就坐在书桌前，吹吹全天下的牛逼。 |
 | [阅冰室](https://xiaobot.net/p/xdash) | ￥69 | --- | [范冰](https://mp.weixin.qq.com/s/5Gjws9xC17v_7bzhMFzIsQ) | 阅读精华整理。回顾以往阅读过的深度长文/信息流/书籍（不限中英）中的高亮标注，精中取精，予以推荐。内容聚焦「商业 / 效能 / 智识」增长 3 个主题。 |
 | [Axe的消费启示录](https://xiaobot.net/p/axe2022) | ￥49 | --- | [刘行健 Axe](https://web.okjike.com/u/94954dd9-cf38-4eaf-bc30-681c186438da) | 我是专注在消费行业的前投资人，现在在做消费品孵化和精品投行，做过投资也创过业。<br />这里会与你分享我的「启示录」：<br />-关于消费行业的思考与洞察（行业研究）<br/>-关于消费品牌与案例的分析（品牌复盘）<br/>-在业务层的方法论总结（管理经验） |
+| [叁拾一周](https://xiaobot.net/p/elizenread)          |    ￥10     |  ￥30   | [Elizen](https://elizen.me/)                                 | 三言两语，三年五载，叁拾一周。阅读，人生最好的时光。         |
 | [亮总记事本](https://xiaobot.net/p/xuyuanpu)                                            |    ￥69     |  ￥258  | 亮总                                                         | 记录运营成长思考，用尽一切信息做对的选择。运营/管理/成长/新媒体。 |
 | [温柔一刀](https://xiaobot.net/p/doriskeke) | ￥28 | --- | 刀姐doris | 刀姐doris的博客，写写对于营销、品牌、创业和个人成长的碎片化思考。 |
 | [认真编辑手记](https://xiaobot.net/p/telenote) | ￥28 | --- | [四楼](https://www.xiaoyuzhoufm.com/podcast/611a8f0a1a18cc41b56c41a9?s=eyJ1IjogIjVlN2Q2OWFlYTJmMmU1MDNjZWM0NjEzMCJ9) | 这里是读报teleread的编辑手记，发一些节目里没放出来的内容，和主播没出现过的样子。 |
