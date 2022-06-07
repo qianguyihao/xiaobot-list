@@ -25,7 +25,7 @@
 
 | 专栏名称                                              | 费用/三个月 | 费用/年 | 作者                                                         | 专栏介绍                                                     |
 | ----------------------------------------------------- | :---------: | :-----: | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [空杯子](https://xiaobot.net/p/emptycup)              |   ￥25.9    |  ￥69   | [刘飞](https://mp.weixin.qq.com/s/oxOI6c0fiyRyPdfhoaX_-Q)    | 杯子的价值在于，它是空的。记录观察和思考。                   |
+| [空杯子 \| 刘飞](https://xiaobot.net/p/emptycup)     |       |     | [刘飞](https://mp.weixin.qq.com/s/oxOI6c0fiyRyPdfhoaX_-Q)    | 杯子的价值在于，它是空的。记录日常阅读和聊天中的有趣的洞察。  |
 | [SmallTalk](https://xiaobot.net/p/smalltalk)          |    ￥64    |  ￥128  | [Light](http://lightory.notion.site/)                        | 写一些对于产品、创业和人生的偏见。 |
 | [惊鸿壹面](https://xiaobot.net/p/qianguyihao)         |     ---     |  ￥128  | [千古壹号](qianguyihao.com/about)                            | 读书笔记、产品思考、软件工具、信息推荐、具体生活。<br />热爱阅读和分享。探索小而美的一面，比宏大更宏大。 |
 | [阿饭的宝藏](https://xiaobot.net/p/afanfan)           |    ￥39    |  ￥99  | [饭饭](https://mp.weixin.qq.com/s/q6yN_JLuorQwaLtU4N3eFg)    | 分享给你那些我在阅读过程中，会开心到从椅子上跳起来的好内容。 |
